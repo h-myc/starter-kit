@@ -1,2 +1,3 @@
-# Starter Kit
-Core configuration and documentation moved from G_Antigravity.
+# Starter Kit Template
+App creation template including Next.js, Firebase, and Vitest.
+Migrated from Google Drive source.
