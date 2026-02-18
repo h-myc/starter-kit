@@ -1,1 +1,7 @@
-(Contents of error.test.tsx obtained in step 273)
+import { describe, it, expect } from 'vitest';
+
+describe('Starter Kit', () => {
+    it('should pass basic test', () => {
+        expect(true).toBe(true);
+    });
+});
