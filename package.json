@@ -10,7 +10,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "security:check": "node scripts/check-secrets.js",
-    "audit": "npm audit",
+    "audit": "npm audit --audit-level=critical",
     "prepare": "husky"
   },
   "dependencies": {
